@@ -1,21 +1,3 @@
-# 3D-ConvNeuralNet-material-property-prediction
-
-# Authors and citation
-This repo includes the dataset/scripts of 3D Convolutional Neural Network for material property prediction in paper: 
-
-[Rao, Chengping, and Yang Liu. "Three-dimensional convolutional neural network (3D-CNN) for heterogeneous material homogenization." Computational Materials Science 184 (2020): 109850.](https://www.sciencedirect.com/science/article/abs/pii/S0927025620303414)
-
-```
-@article{rao2020three,
-  title={Three-dimensional convolutional neural network (3D-CNN) for heterogeneous material homogenization},
-  author={Rao, Chengping and Liu, Yang},
-  journal={Computational Materials Science},
-  volume={184},
-  pages={109850},
-  year={2020},
-  publisher={Elsevier}
-}
-```
 
 # Description for each file
 - **training&plot.py**: Data processing, training and postprocessing scripts ;
